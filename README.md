@@ -20,5 +20,9 @@ Passos
 5. Crie um grupo de segurança para o RDS e defina as regras de acesso.
 6. Crie a instância de banco de dados RDS com base nas configurações fornecidas.
 
+<h1>Rodar o script</h1>
+./start.sh 
+./destroy.sh
+
 
 
