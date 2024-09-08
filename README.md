@@ -1,3 +1,4 @@
+![Screenshot_55](https://github.com/user-attachments/assets/5d710961-f479-49e6-a2b2-884b5e10181d)
 <H1>PROJETO DEVOPS MARKETING NA CLOUD</H1>
 
 * Nesse projeto a minha missão foi criar toda uma infraestrutura aws com o terraform.
